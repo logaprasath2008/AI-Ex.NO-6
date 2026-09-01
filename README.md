@@ -3,6 +3,7 @@
 Generative Adversarial Network (GAN)
 Generative Adversarial Networks (GAN) can generate realistic images by learning from existing image datasets. Here we will be implementing a GAN trained on the CIFAR-10 dataset using PyTorch.
 ## Procedure:
+
 Step 1: Importing Required Libraries
 import torch
 import torch.nn as nn
